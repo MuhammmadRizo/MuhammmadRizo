@@ -44,6 +44,8 @@
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/MuhammmadRizo)](https://github.com/MuhammmadRizo) 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/MuhammmadRizo)](https://github.com/MuhammmadRizo) 
 [![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/MuhammmadRizo)](https://github.com/MuhammmadRizo) 
+[![Static Badge](https://img.shields.io/badge/Unity-white?style=flat&logo=unity&logoColor=black&link=https://github.com/MuhammmadRizo)](https://github.com/MuhammmadRizo) 
+
 
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/MuhammmadRizo)](https://github.com/MuhammmadRizo)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/MuhammmadRizo)](https://github.com/MuhammmadRizo)
