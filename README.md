@@ -43,6 +43,9 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/MuhammmadRizo)](https://github.com/MuhammmadRizo) 
 [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/MuhammmadRizo)](https://github.com/MuhammmadRizo) 
 
+![Static Badge](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=white&logoSize=20px)
+
+
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/MuhammmadRizo)](https://github.com/MuhammmadRizo) 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/MuhammmadRizo)](https://github.com/MuhammmadRizo) 
 [![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/MuhammmadRizo)](https://github.com/MuhammmadRizo) 
