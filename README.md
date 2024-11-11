@@ -1,4 +1,4 @@
-
+![python](https://github.com/user-attachments/assets/57355184-2cec-43da-9cb7-cc99461a3246)
 ![Web-developer](https://github.com/user-attachments/assets/0c3a3ed1-f6fc-4ea8-be62-b0ed1246c12b)
 
     
@@ -37,6 +37,11 @@
 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/MuhammmadRizo)](https://github.com/MuhammmadRizo) 
 [![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron&link=https://github.com/MuhammmadRizo)](https://github.com/MuhammmadRizo) 
+
+![Static Badge](https://img.shields.io/badge/Python-black?logo=python&logoColor=white&labelColor=%234b8bbe&color=%234b8bbe)
+
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 [![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/MuhammmadRizo)](https://github.com/MuhammmadRizo) 
 [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/MuhammmadRizo)](https://github.com/MuhammmadRizo) 
 
@@ -49,5 +54,7 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/MuhammmadRizo)](https://github.com/MuhammmadRizo) 
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/MuhammmadRizo)](https://github.com/MuhammmadRizo)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/MuhammmadRizo)](https://github.com/MuhammmadRizo) 
+
+
 
 ⭐️ From [@MuhammmadRizo](https://github.com/MuhammmadRizo)
