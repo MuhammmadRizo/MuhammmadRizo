@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/muhammad-rizo-56686a261/">
   <img align="left" alt="Muhammad Rizo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/people/Brijesh-Dhanani/100010798357963">
+<a href="https://www.facebook.com/profile.php?id=100090876400461">
   <img align="left" alt="Muhammad Rizo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/rizo_adilov/">
