@@ -1,4 +1,3 @@
-![python](https://github.com/user-attachments/assets/57355184-2cec-43da-9cb7-cc99461a3246)
 ![Web-developer](https://github.com/user-attachments/assets/0c3a3ed1-f6fc-4ea8-be62-b0ed1246c12b)
 
     
