@@ -1,4 +1,4 @@
-// ![Web-developer](https://github.com/user-attachments/assets/0c3a3ed1-f6fc-4ea8-be62-b0ed1246c12b)
+ ![Web-developer](https://github.com/user-attachments/assets/0c3a3ed1-f6fc-4ea8-be62-b0ed1246c12b)
 
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
