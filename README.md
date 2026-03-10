@@ -5,21 +5,6 @@
 
 ### Hello! I'm Muhammad Rizo a FrontEnd Developer from Uzbekistan.
 
-### Portfolio: ...
-
-<a href="https://x.com/odilovmuhamm52">
-  <img align="left" alt="Muhammad Rizo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/muhammad-rizo-56686a261/">
-  <img align="left" alt="Muhammad Rizo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/rizo_adilov/">
-  <img align="left" alt="Muhammad Rizo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.16.0/icons/instagram.svg" />
-</a>
-
-<br />
-<br />
-
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 ### 👨‍💻 Languages and Tools
